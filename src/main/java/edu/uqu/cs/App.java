@@ -10,11 +10,10 @@ package edu.uqu.cs;
  *      a.	Change <Name> to your name
  *      b.	Change <Student ID> to your student ID
  */
- 
-class FirstExercise
-{
-    private static void mainMethod( String[] args )
-    {
-        System.out.println( "Hello World!" );
+
+public class App {
+    public static void main(String[] args) {
+
+        System.out.println("hello: Mohammad zmzmi 443010592");
     }
 }
